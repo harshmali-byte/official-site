@@ -69,7 +69,7 @@ const Careers = () => {
               <p className="text-gray-600 mt-4">{job.description}</p>
               <button className="mt-4  text-gray py-2 px-4 rounded-lg hover:bg-blue-700 transition"
 >
-                Send Your CV  at contact@khaves.in
+                Send Your CV  at hr.khavestechnologies@gmail.com  
               </button>
             </div>
           ))}
@@ -121,7 +121,7 @@ const Careers = () => {
           Join us in creating solutions that make a difference.
         </p>
         <button className="bg-white text-blue-600 py-3 px-6 rounded-lg hover:bg-gray-100 transition">
-          Drop Your CV at contact@khaves.in
+          Drop Your CV at ayam.khavesinfo@khaves.in
         </button>
       </div>
     </section>
